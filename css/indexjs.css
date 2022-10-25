@@ -1,0 +1,23 @@
+.catalog_none{
+    opacity: 0; 
+    transform: translateY(-141px) scaleY(0);
+}
+
+.hide_elements{
+    opacity: 0;
+    pointer-events: none;
+}
+
+.display_none{
+    display: none;
+}
+
+.added_to_cart{
+    color:chartreuse;
+    transition: 0s;
+}
+
+.position_b_0{
+    position: absolute;
+    bottom: 0;
+}

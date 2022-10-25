@@ -1,0 +1,23 @@
+@media (min-width: 2200px) {
+    .hero-inner-main{
+        margin: auto;
+    }
+}
+
+@media (max-width: 1440px){
+    .main-platforms-main
+    .platform-block{
+        height: 220px;
+    } .main-platforms-main
+    .platform-block img{
+        max-width: 120px;
+    }
+
+    .main-accessories-main 
+    .accessories-block {
+        height: 250px;
+    } .main-accessories-main 
+    .accessories-block img{
+        max-width: 100px;
+    }
+}
